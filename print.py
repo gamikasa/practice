@@ -1,2 +1,3 @@
 print('haha')
-printf('ja')
+print('ja')
+print('lol')
